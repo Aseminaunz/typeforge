@@ -1,6 +1,6 @@
 [package]
 name = "cameronpcampbell/typeforge"
-description="A Type Function utility library."
+description = "A Type Function utility library."
 version = "2.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
